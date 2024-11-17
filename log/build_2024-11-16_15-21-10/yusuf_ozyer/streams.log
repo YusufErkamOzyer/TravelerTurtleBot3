@@ -1,0 +1,25 @@
+[0.729s] Invoking command in '/home/yusuf/turtlebot3_ws/yusuf_ozyer': PYTHONPATH=/home/yusuf/turtlebot3_ws/build/yusuf_ozyer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yusuf/turtlebot3_ws/install/yusuf_ozyer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/yusuf_ozyer build --build-base /home/yusuf/turtlebot3_ws/build/yusuf_ozyer/build install --record /home/yusuf/turtlebot3_ws/build/yusuf_ozyer/install.log --single-version-externally-managed install_data
+[0.957s] running egg_info
+[0.958s] writing ../build/yusuf_ozyer/yusuf_ozyer.egg-info/PKG-INFO
+[0.958s] writing dependency_links to ../build/yusuf_ozyer/yusuf_ozyer.egg-info/dependency_links.txt
+[0.958s] writing entry points to ../build/yusuf_ozyer/yusuf_ozyer.egg-info/entry_points.txt
+[0.958s] writing requirements to ../build/yusuf_ozyer/yusuf_ozyer.egg-info/requires.txt
+[0.958s] writing top-level names to ../build/yusuf_ozyer/yusuf_ozyer.egg-info/top_level.txt
+[0.960s] reading manifest file '../build/yusuf_ozyer/yusuf_ozyer.egg-info/SOURCES.txt'
+[0.960s] adding license file 'LICENSE'
+[0.961s] writing manifest file '../build/yusuf_ozyer/yusuf_ozyer.egg-info/SOURCES.txt'
+[0.961s] running build
+[0.961s] running build_py
+[0.961s] copying yusuf_ozyer/hareket_kontrol.py -> /home/yusuf/turtlebot3_ws/build/yusuf_ozyer/build/lib/yusuf_ozyer
+[0.961s] running install
+[0.961s] running install_lib
+[0.962s] copying /home/yusuf/turtlebot3_ws/build/yusuf_ozyer/build/lib/yusuf_ozyer/hareket_kontrol.py -> /home/yusuf/turtlebot3_ws/install/yusuf_ozyer/lib/python3.10/site-packages/yusuf_ozyer
+[0.963s] byte-compiling /home/yusuf/turtlebot3_ws/install/yusuf_ozyer/lib/python3.10/site-packages/yusuf_ozyer/hareket_kontrol.py to hareket_kontrol.cpython-310.pyc
+[0.964s] running install_data
+[0.964s] running install_egg_info
+[0.965s] removing '/home/yusuf/turtlebot3_ws/install/yusuf_ozyer/lib/python3.10/site-packages/yusuf_ozyer-0.0.0-py3.10.egg-info' (and everything under it)
+[0.965s] Copying ../build/yusuf_ozyer/yusuf_ozyer.egg-info to /home/yusuf/turtlebot3_ws/install/yusuf_ozyer/lib/python3.10/site-packages/yusuf_ozyer-0.0.0-py3.10.egg-info
+[0.966s] running install_scripts
+[0.985s] Installing hareket_kontrol script to /home/yusuf/turtlebot3_ws/install/yusuf_ozyer/lib/yusuf_ozyer
+[0.986s] writing list of installed files to '/home/yusuf/turtlebot3_ws/build/yusuf_ozyer/install.log'
+[1.011s] Invoked command in '/home/yusuf/turtlebot3_ws/yusuf_ozyer' returned '0': PYTHONPATH=/home/yusuf/turtlebot3_ws/build/yusuf_ozyer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yusuf/turtlebot3_ws/install/yusuf_ozyer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../build/yusuf_ozyer build --build-base /home/yusuf/turtlebot3_ws/build/yusuf_ozyer/build install --record /home/yusuf/turtlebot3_ws/build/yusuf_ozyer/install.log --single-version-externally-managed install_data

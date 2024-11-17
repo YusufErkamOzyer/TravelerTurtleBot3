@@ -1,0 +1,3 @@
+[console_scripts]
+hareket_kontrol = yusuf_ozyer.hareket_kontrol:main
+

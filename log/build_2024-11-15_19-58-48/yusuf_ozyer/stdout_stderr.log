@@ -1,0 +1,20 @@
+running develop
+/usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+running egg_info
+writing yusuf_ozyer.egg-info/PKG-INFO
+writing dependency_links to yusuf_ozyer.egg-info/dependency_links.txt
+writing entry points to yusuf_ozyer.egg-info/entry_points.txt
+writing requirements to yusuf_ozyer.egg-info/requires.txt
+writing top-level names to yusuf_ozyer.egg-info/top_level.txt
+reading manifest file 'yusuf_ozyer.egg-info/SOURCES.txt'
+writing manifest file 'yusuf_ozyer.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/yusuf/turtlebot3_ws/install/yusuf_ozyer/lib/python3.10/site-packages/yusuf-ozyer.egg-link (link to .)
+Installing hareket_kontrol script to /home/yusuf/turtlebot3_ws/install/yusuf_ozyer/lib/yusuf_ozyer
+Installing lidar_subscriber script to /home/yusuf/turtlebot3_ws/install/yusuf_ozyer/lib/yusuf_ozyer
+
+Installed /home/yusuf/turtlebot3_ws/build/yusuf_ozyer
+running symlink_data
+symbolically linking /home/yusuf/turtlebot3_ws/build/yusuf_ozyer/resource/yusuf_ozyer -> /home/yusuf/turtlebot3_ws/install/yusuf_ozyer/share/ament_index/resource_index/packages
+symbolically linking /home/yusuf/turtlebot3_ws/build/yusuf_ozyer/package.xml -> /home/yusuf/turtlebot3_ws/install/yusuf_ozyer/share/yusuf_ozyer
